@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #F2F3F7;
+  padding: 20px 100px 20px 100px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
